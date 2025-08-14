@@ -1,0 +1,33 @@
+Q1: Understanding Arrow Functions & Lexical this
+
+Consider the following code and predict the output. Explain why the behavior occurs.
+
+Q2: Convert Traditional Functions to Arrow Functions
+
+Rewrite the following function using arrow functions without changing the behavior:
+
+Original Code:
+Q3: Handling Errors in Async-Await (Try-Catch Required)
+
+Modify the following function to use async-await and proper error handling (try-catch).
+
+Original Code (With Promise):
+Assignment Questions
+Full Stack Web Development
+Q4: Async Function with Multiple Await Calls
+
+Write an async function that7
+6= Fetches user data after 1 second=
+#= Fetches order details after 2 seconds=
+1= Fetches payment status after 3 seconds=
+-= Logs the final "Order completed" message=
+ = Use await to ensure each step executes sequentially.
+
+
+Q5: Handling Synchronous Errors with try-catch
+
+Write a function that7
+6= Accepts a string input=
+#= Converts it to a number and returns its square=
+1= Uses try-catch to handle cases where the input is not a valid number=
+-= If the error occurs, return "Invalid Input" instead of crashing
